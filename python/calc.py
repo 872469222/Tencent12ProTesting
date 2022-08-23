@@ -8,7 +8,6 @@ class Calc:
 			return a+b
 		def test_abc(self,a,b):
 			return  a+b
-
 		def  div(self,a,b):
 			return a/b
 

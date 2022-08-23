@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<testsuites>
+    <testsuite errors="0" failures="0" hostname="liaoboyangdeMacBook-Air.local" name="pytest" skipped="0" tests="4" time="0.032" timestamp="2022-08-18T19:42:29.468260">
+        <testcase classname="testin.test_calc.TestCal" name="test_and_1" time="0.001" />
+        <testcase classname="testin.test_pytest.TestCalc" name="test_add" time="0.000" />
+        <testcase classname="testin.test_pytest.TestCalc" name="test_add_1" time="0.000" />
+        <testcase classname="testin.test_pytest.TestCalc" name="test_div" time="0.000" />
+    </testsuite>
+</testsuites>
