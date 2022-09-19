@@ -8,7 +8,7 @@ class TestCalc:
 	def setup(self):
 		self.calc=Calc()
 
-	# @pytest.mark.second
+	# @pytest.mark.second2
 	def test_add(self) :
 		self.calc =Calc()
 		result = self.calc.test_abc(1,2)
