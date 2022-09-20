@@ -27,5 +27,4 @@ class TestWindows(Base):
         sleep(3)
 
 
-class TestCase():
-    pass
+
